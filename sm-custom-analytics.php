@@ -4,7 +4,7 @@
  * Plugin Name: SM Custom Analytics
  * Plugin URI: https://github.com/msulaimanmisri/sm-custom-analytics
  * Description: work in progress
- * Version: 1.0
+ * Version: 1.1
  * Author: Sulaiman Misri
  * Author URI: https://github.com/msulaimanmisri
  * Text Domain: sm-custom-analytics
