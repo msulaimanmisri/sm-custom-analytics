@@ -4,7 +4,7 @@
  * Plugin Name: SM Custom Analytics
  * Plugin URI: https://github.com/msulaimanmisri/sm-custom-analytics
  * Description: work in progress
- * Version: 1.1
+ * Version: 1.2
  * Author: Sulaiman Misri
  * Author URI: https://github.com/msulaimanmisri
  * Text Domain: sm-custom-analytics
@@ -19,3 +19,5 @@ if (!defined('ABSPATH')) {
 }
 
 require 'Controller/AnalyticsController.php';
+require 'Controller/ResetVisitorController.php';
+require 'Controller/AlertController.php';
